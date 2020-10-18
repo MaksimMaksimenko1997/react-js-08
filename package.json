@@ -2,7 +2,7 @@
   "name": "hw-8",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MaksimMaksimenko1997.github.io/react-js-07",
+  "homepage": "https://MaksimMaksimenko1997.github.io/react-js-08",
   "dependencies": {
     "@reduxjs/toolkit": "^1.4.0",
     "@testing-library/jest-dom": "^4.2.4",
